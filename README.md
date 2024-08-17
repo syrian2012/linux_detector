@@ -27,7 +27,8 @@ This script is designed to audit Linux-based operating systems, offering detaile
    chmod +x linux_detector.sh
    sudo ./linux_detector.sh
 
-3. **Review the recommendations**
+3. **Review the recommendations**:
+   
    The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
 
 ## Customization
