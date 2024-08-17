@@ -22,15 +22,17 @@ This script is designed to audit Linux-based operating systems, offering detaile
    git clone https://github.com/yourusername/os-audit-script.git
    cd os-audit-script
    
-2. Run the script:
-
+2. **Run the script**:
+   ```bash
 chmod +x audit_script.sh
 sudo ./audit_script.sh
 
-3. Review the recommendations:
-Customization
+3. **Review the recommendations**
+
+## Customization
 You can modify the list of services to check by editing the services array in the check_relevant_services function.
-Contributing
+
+## Contributing
 Feel free to submit issues or pull requests to improve the script. Contributions are welcome!
 
 ## License
