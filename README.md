@@ -39,7 +39,7 @@ Feel free to submit issues or pull requests to improve the script. Contributions
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For professional DevOps services, optimization, and consultation, contact us at mhd4.hz@gmail.com.
+For professional DevOps services, optimization, and consultation, contact me at mhd4.hz@gmail.com.
 
 ## The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
 
