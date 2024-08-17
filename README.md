@@ -24,8 +24,8 @@ This script is designed to audit Linux-based operating systems, offering detaile
    
 2. **Run the script**:
    ```bash
-chmod +x audit_script.sh
-sudo ./audit_script.sh
+   chmod +x audit_script.sh
+   sudo ./audit_script.sh
 
 3. **Review the recommendations**
 
