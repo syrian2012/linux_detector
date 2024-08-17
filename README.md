@@ -33,9 +33,9 @@ You can modify the list of services to check by editing the services array in th
 Contributing
 Feel free to submit issues or pull requests to improve the script. Contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For professional DevOps services, optimization, and consultation, contact us at ask@ouremail.com.
 The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
