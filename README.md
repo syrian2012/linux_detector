@@ -20,7 +20,7 @@ This script is designed to audit Linux-based operating systems, offering detaile
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/syrian2012/linux_detector.git
-   cd os-audit-script
+   cd linux_detector
    
 2. **Run the script**:
    ```bash
