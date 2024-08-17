@@ -28,6 +28,7 @@ This script is designed to audit Linux-based operating systems, offering detaile
    sudo ./linux_detector.sh
 
 3. **Review the recommendations**
+   The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
 
 ## Customization
 You can modify the list of services to check by editing the services array in the check_relevant_services function.
@@ -40,7 +41,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For professional DevOps services, optimization, and consultation, contact me at mhd4.hz@gmail.com.
-
-## The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
 
 ## enjoy with Love Mohammad Haidar
