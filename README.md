@@ -19,13 +19,13 @@ This script is designed to audit Linux-based operating systems, offering detaile
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/os-audit-script.git
+   git clone https://github.com/syrian2012/linux_detector.git
    cd os-audit-script
    
 2. **Run the script**:
    ```bash
-   chmod +x audit_script.sh
-   sudo ./audit_script.sh
+   chmod +x linux_detector.sh
+   sudo ./linux_detector.sh
 
 3. **Review the recommendations**
 
