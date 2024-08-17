@@ -39,19 +39,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For professional DevOps services, optimization, and consultation, contact us at ask@ouremail.com.
 The script generates a report file named Recommendations_YYYY-MM-DD_HH-MM-SS.txt, which contains the output and recommendations.
-
-
-### 4. **Creating the GitHub Repository**
-1. **Go to GitHub**: [https://github.com](https://github.com)
-2. **Create a New Repository**:
-   - Repository name: `os-audit-script`
-   - Description: A Bash script to audit and recommend optimizations for Linux-based operating systems, checking for kernel updates, OS upgrades, service statuses, and giving system-specific advice.
-   - Initialize the repository with a `README.md` (optional if you want to do this step manually).
-3. **Upload Your Files**:
-   - Upload `audit_script.sh`.
-   - Add a `.gitignore` file (optional).
-   - Edit the `README.md` with the content provided.
-
-### 5. **Example `.gitignore`**
-```plaintext
-Recommendations_*.txt
